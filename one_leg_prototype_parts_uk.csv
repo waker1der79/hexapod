@@ -1,0 +1,14 @@
+Item,Qty,Description,Estimated Unit Price (GBP),Vendor / Notes
+Arduino Mega 2560 Rev3,1,Official or quality clone Mega 2560,£20–£42,Amazon UK or RobotShop UK (https://uk.robotshop.com/products/arduino-mega-2560-microcontroller-rev3)
+PCA9685 16‑ch servo driver,1,Adafruit 16‑Channel PWM/Servo Driver or compatible,£10–£15,SB Components UK (https://shop.sb-components.co.uk/products/adafruit-16-channel-12-bit-pwm-servo-driver-i2c-interface-pca9685)
+DS3218 Digital Servo (20 kg·cm),3–4,"Metal-gear digital servo, high torque",£13–£15 each,Howes Models UK (https://howesmodels.co.uk/product/20kg-high-torque-metal-geared-waterproof-digital-servo/)
+"UBEC / BEC 5–6 V, ≥5 A",1,Voltage regulator for servos,£8–£15,Hobbywing 5A UBEC on eBay UK or component-shop.co.uk
+"LiPo Battery 2S or 3S, 2200–3000 mAh",1,LiPo with XT60 connector,£20–£35,Overlander or Hobbyking UK
+XT60 connector pair,1 set,For LiPo connection,£3–£5,Amazon UK or eBay UK
+Large electrolytic capacitor,1,2200 µF 10 V across PCA9685 V+ & GND,£2–£5,Amazon UK or RS Components
+Jumper wires (male-female),1 set,For Arduino to PCA9685 I²C,£5–£8,Amazon UK
+Servo extension leads,3–6,For mounting flexibility,£5–£8,Amazon UK
+3D printed or wood test jig,1,Mount for 3 servos in leg configuration,—,Print yourself or cut from scrap wood
+Small screwdriver set,1,For assembly,£5–£10,Amazon UK
+Wire stripper/cutter,1,Basic hand tool,£5–£10,Amazon UK
+Heat-shrink tubing / electrical tape,1 pack,For wire insulation,£3–£6,Amazon UK
